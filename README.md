@@ -2,5 +2,5 @@
 Automação e Função
 
 
-Na pasta "webjump" contem o projeto de automacao realizado.
-E na pasta "comidas" contem a funcao solicitada.
+Na pasta "webjump" contém o projeto de automação realizado.
+E na pasta "comidas" contém a funcao solicitada.
